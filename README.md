@@ -15,6 +15,14 @@
 
 3. Start the app
 
+https://github.com/user-attachments/assets/bf9c6bac-f859-47f4-a078-6ef6693426ea
+
+
+
+https://github.com/user-attachments/assets/4fd04087-3c56-4f3f-97f7-68dabd1ce996
+
+
+
    ```bash
     pnpm expo start
    ```
