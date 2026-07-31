@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8986a8e9-1c4a-408f-8d27-d4941646a80c
+
 # Welcome to QuickMart 🛒
 
 
@@ -26,9 +30,9 @@ https://github.com/user-attachments/assets/4fd04087-3c56-4f3f-97f7-68dabd1ce996
    ```bash
     pnpm expo start
    ```
-## Example
+## Show Case 
 
-https://github.com/user-attachments/assets/c878b202-8d46-4f17-aa4a-74a52b7135c7
+
 
 
 ## Documentation 
